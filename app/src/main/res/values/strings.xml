@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ribbit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">SignINActivity</string>
+    <string name="title_activity_sign_upctivity">SignUpctivity</string>
+    <string name="username_text">User Name</string>
+    <string name="pasword_text">Password</string>
+    <string name="sign_in_text">Sign IN</string>
+    <string name="sign_up_text">Sign UP!</string>
+    <string name="Email_id_text">Email id</string>
+</resources>
